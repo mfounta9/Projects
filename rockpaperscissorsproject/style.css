@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+        
+
+body {
+    text-align: center;
+    background-color: red;
+    font-family:Creepster;
+    font-size: large;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button {
+    cursor: pointer;
+    margin: 10px;
+    padding: 5px 10px 5px 10px;
+    border-radius: 4px;
+    border: 2px solid transparent;
+}
+button:hover {
+    background-color: gold;
+    border: 2px solid gold;
+}
